@@ -1,0 +1,24 @@
+.avatar{
+    width: 300px;
+    height: 300px;
+}
+
+p{
+    background-color: lightblue;
+}
+
+li{
+    color: darkblue;
+}
+
+h3{
+    font-style: italic
+}
+
+img{
+    opacity: 0.8;
+    border-radius:50%
+}
+
+/* What is specificity? */
+/* it's about the priority */

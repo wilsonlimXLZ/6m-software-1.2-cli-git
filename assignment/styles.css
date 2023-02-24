@@ -1,0 +1,72 @@
+body{
+    margin:0;
+    text-align: center;
+    display: relative;
+}
+.header_section{
+    padding:10px;
+    background-color: black;
+    color: white;
+}
+
+.profile_pic{
+    border-radius: 300px;
+    width: 30%;
+    float: left;
+    margin-right: 10%;
+}
+
+.bio_section{
+    position: relative;
+    width: 70%;
+    margin:50px auto 50px;
+    text-align: left;
+}
+
+.bio_summary{
+    padding-top:5%;
+    padding-bottom: 5%;
+}
+
+.bio_text{
+    margin:0;
+    font-size: 1.5rem;
+}
+
+.flag{
+    width: 30%;
+    height: 15%;
+}
+
+.country_section{
+    margin-top: 5%;
+}
+
+.about_myself{
+    width: 70%;
+    margin:auto;
+    margin-top: 5%;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: left;
+    padding-top:7%;
+    font-size: 1.5rem;
+}
+
+.hobbies_section{
+    width: 50%;
+    margin:auto;
+    margin-top: 5%;
+}
+
+.hobby_title{
+    float:left;
+    margin-right:10%;
+    font-size: 4rem;
+}
+
+span{
+    font-weight: bold;
+}
